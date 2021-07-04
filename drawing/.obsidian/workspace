@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "8544f0662381f38e",
+    "type": "split",
+    "children": [
+      {
+        "id": "40dca4717f6cb580",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Рисунок 00.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80d2463e57c71d91",
+    "type": "split",
+    "children": [
+      {
+        "id": "237fe73637492563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "796b9286238bfac3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9fc7fc99da6a4713",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65e6c8b85606224d",
+    "type": "split",
+    "children": [
+      {
+        "id": "343400bf7da94d99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c0062ec740d3bb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Рисунок 00.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "40dca4717f6cb580",
+  "lastOpenFiles": [
+    "Рисунок 00.md",
+    "Тень.md",
+    "Полутень.md",
+    "Untitled.md",
+    "Untitled 1.md"
+  ]
+}
